@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2017-09-21T17:25:36+00:00</updated>
+  <id>http://localhost:4000//</id>
+
+  
+    <title type="html">Metallic.</title>
+  
+
+  
+    <subtitle>Do the Impossible, See the Invisible.</subtitle>
+  
+
+  
+    <author>
+        <name>Sang-Hyeok, Lee</name>
+      
+      
+    </author>
+  
+
+  
+</feed>
